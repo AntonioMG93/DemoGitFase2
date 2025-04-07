@@ -13,7 +13,7 @@ public class GitDemo {
     
     public static void main(String[] args) {
         String holaMundo = "Hola mundo!";
-        String nombre = "Robinson";
+        String nombre = "AntonioMG";
         int edad = 15;
         System.out.println(holaMundo + ". Mi edad es "+ edad);
     }
